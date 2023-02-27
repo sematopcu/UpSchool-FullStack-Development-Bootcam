@@ -1,1 +1,1 @@
-# UpSchool-FullStack-Development-Bootcam
+# UpSchool-FullStack-Development-Bootcamp
