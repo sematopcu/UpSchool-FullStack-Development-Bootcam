@@ -1,0 +1,6 @@
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.csproj.AssemblyReference.cache
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.AssemblyInfoInputs.cache
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.AssemblyInfo.cs
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.csproj.CoreCompileInputs.cache
+C:\Users\90541\source\repos\UpSchool\UpSchool.Wasm\obj\Debug\net7.0\UpSchool.Wasm.MvcApplicationPartsAssemblyInfo.cache
